@@ -1,6 +1,6 @@
 CoreBoard ![open hardware][openhardware]
 =========
-A Gaming keyboard/keypad project
+An ergonomically customizable gaming keyboard/keypad project
 
 This project essentially started because I wanted to make a portable gaming keyboard to play Starcraft II.
 
