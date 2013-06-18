@@ -1,14 +1,10 @@
-CoreBoard
+CoreBoard ![open hardware][openhardware]
 =========
-
 A Gaming keyboard/keypad project
-![open hardware][openhardware]
-
-
 
 This project essentially started because I wanted to make a portable gaming keyboard to play Starcraft II.
 
-I wanted that gaming keyboard feel for SC2, but my regular keyboard for day to day programming and such. I was not satisified with existing projects so I decided to see if the barrier of entry of 3d printing, laser cutting, pcb fabrication, and hardware prototyping had lowered enough that I could jump into.  My first prototype exceeded my expectations in what I could accomplish, especially with the 3D Cad and PCB design using online tools.
+I was looking for a gaming keyboard feel for SC2, but my regular keyboard for day to day programming and such. I was not satisified with existing products so I decided to see if the barrier of entry for 3d printing, laser cutting, pcb fabrication, and hardware prototyping had lowered enough that I could jump into.  My first prototype exceeded my expectations in what I could accomplish, especially with the 3D Cad and PCB design using online tools.
 
 * [Image Gallery][gallery]
 
